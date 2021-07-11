@@ -13,6 +13,9 @@
     <Reference Include="MixItUp.API">
       <HintPath>..\MixItUp-DLL\MixItUp.API.dll</HintPath>
     </Reference>
+    <Reference Include="StreamingClient.Base">
+      <HintPath>..\MixItUp-DLL\StreamingClient.Base.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
