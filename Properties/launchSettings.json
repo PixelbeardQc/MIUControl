@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "MIUCONTROLV2": {
-      "commandName": "Project",
-      "commandLineArgs": "/CommandId=a3f86444-7fe6-46b5-b836-7a0367d0b2ca /allargs=\"100\""
-    }
-  }
-}
